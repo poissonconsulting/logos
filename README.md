@@ -1,0 +1,2 @@
+# logos
+Storage of logos
